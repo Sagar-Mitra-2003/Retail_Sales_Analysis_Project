@@ -50,3 +50,7 @@ Superstore retail dataset containing transactional order data including sales, p
 1. Clone this repository
 2. Install dependencies : pip install -r requirements.txt
 3. Open notebook : jupyter notebook notebooks/Retail_Sales_Analysis.ipynb
+
+## SQL(Structure Query Language)
+- SQL File is also Included in the Dashboard
+- ALL queries are written in MySQL Workbench
