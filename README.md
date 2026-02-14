@@ -52,5 +52,7 @@ Superstore retail dataset containing transactional order data including sales, p
 3. Open notebook : jupyter notebook notebooks/Retail_Sales_Analysis.ipynb
 
 ## SQL(Structure Query Language)
+- Used "SuperStore_PyCleaned" DataSet to perform SQL Operations
+- This DataSet is Cleaned and Exported using Python Operations
 - SQL File is also Included in the Dashboard
 - ALL queries are written in MySQL Workbench
