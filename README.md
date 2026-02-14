@@ -1,5 +1,5 @@
 # Retail_Sales_Analysis_Project
-Performed Exploratory Data Analysis on a Retail Sales Dataset using Python
+Performed Exploratory Data Analysis on a Retail Sales Dataset using Python and SQL.
 # Retail Sales Data Analysis using Python
 
 ## Project Overview
