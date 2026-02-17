@@ -1,9 +1,9 @@
 # Retail_Sales_Analysis_Project
-Performed Exploratory Data Analysis on a Retail Sales Dataset using Python and SQL.
+Performed Exploratory & Statistical Data Analysis on a Retail Sales Dataset using Python and SQL.
 # Retail Sales Data Analysis using Python
 
 ## Project Overview
-This project performs end-to-end exploratory data analysis (EDA) on a retail sales dataset to uncover insights related to sales performance, profitability, customer behavior, and regional trends.
+Engineered a complete Retail Sales Analytics pipeline using Python(Pandas, Numpy, Matplotlib, Seaborn, Plotly), SQL, and Power BI to process and analyze transactional sales data. Automated data cleaning and transformation with Python, performed business analysis using SQL queries, and built dynamic Power BI dashboards with advanced DAX metrics (YoY Growth, Top-N, Running Total). Delivered actionable insights by identifying high-profit regions, loss-making products, and key sales patterns, supporting strategic decision-making.
 
 ## Objectives
 - Perform data cleaning and preprocessing
