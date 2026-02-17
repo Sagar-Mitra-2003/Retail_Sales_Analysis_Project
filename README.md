@@ -1,5 +1,5 @@
 # Retail_Sales_Analysis_Project
-Engineered a complete retail analytics pipeline using Python, SQL, and Power BI to process and analyze transactional sales data. Automated data cleaning and transformation with Python, performed business analysis using SQL queries, and built dynamic Power BI dashboards with advanced DAX metrics (YoY Growth, Top-N, Running Total). Delivered actionable insights by identifying high-profit regions, loss-making products, and key sales patterns, supporting strategic decision-making.
+Engineered a complete Retail Sales Analytics pipeline using Python, SQL, and Power BI to process and analyze transactional sales data. Automated data cleaning and transformation with Python, performed business analysis using SQL queries, and built dynamic Power BI dashboards with advanced DAX metrics (YoY Growth, Top-N, Running Total). Delivered actionable insights by identifying high-profit regions, loss-making products, and key sales patterns, supporting strategic decision-making.
 # Retail Sales Data Analysis using Python
 
 ## Project Overview
