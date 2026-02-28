@@ -61,3 +61,6 @@ Superstore retail dataset containing transactional order data including sales, p
 <img width="1198" height="673" alt="KPI" src="https://github.com/user-attachments/assets/a7c67746-2b31-48b1-a85c-36cbcf53b35b" />
 
 
+<img width="1204" height="740" alt="Performance" src="https://github.com/user-attachments/assets/4d5804b9-9c9e-46c8-b6f2-173cd21cf58b" />
+
+
