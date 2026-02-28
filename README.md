@@ -56,3 +56,8 @@ Superstore retail dataset containing transactional order data including sales, p
 - This DataSet is Cleaned and Exported using Python Operations
 - SQL File is also Included in the Dashboard
 - ALL queries are written in MySQL Workbench
+
+## Final Outcome by Power BI Insight
+<img width="1198" height="673" alt="KPI" src="https://github.com/user-attachments/assets/a7c67746-2b31-48b1-a85c-36cbcf53b35b" />
+
+
