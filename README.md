@@ -58,13 +58,19 @@ Superstore retail dataset containing transactional order data including sales, p
 - ALL queries are written in MySQL Workbench
 
 ## Final Insight by Power-BI
-
-<img width="1551" height="1006" alt="Screenshot 2026-03-07 101656" src="https://github.com/user-attachments/assets/8b1367ef-e4e0-47ef-b360-d2738da96f68" />
+<img width="773" height="503" alt="image" src="https://github.com/user-attachments/assets/79fd82b7-3b2d-4024-8eaf-f3dc0bad40d1" />
 
 
 <img width="776" height="503" alt="image" src="https://github.com/user-attachments/assets/809c52be-e02d-4e66-8e0d-8c334fbc89cd" />
 
 <img width="776" height="502" alt="image" src="https://github.com/user-attachments/assets/90653fb4-7f91-4e31-b909-2a0693864923" />
+
+<img width="773" height="503" alt="image" src="https://github.com/user-attachments/assets/10e1e05e-5bee-4df2-9cdf-c2b295f53613" />
+
+<img width="773" height="503" alt="image" src="https://github.com/user-attachments/assets/a829251f-b976-458e-b8f3-981576883392" />
+
+<img width="773" height="503" alt="image" src="https://github.com/user-attachments/assets/6832e1cc-bb8b-4894-8e28-515726ab7262" />
+
 
 
 
