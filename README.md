@@ -59,11 +59,12 @@ Superstore retail dataset containing transactional order data including sales, p
 
 ## Final Insight by Power-BI
 
-<img width="800" height="503" alt="image" src="https://github.com/user-attachments/assets/a3879f48-ca31-47fa-b178-df276faa85d0" />
+<img width="1551" height="1006" alt="Screenshot 2026-03-07 101656" src="https://github.com/user-attachments/assets/8b1367ef-e4e0-47ef-b360-d2738da96f68" />
+
 
 <img width="776" height="503" alt="image" src="https://github.com/user-attachments/assets/809c52be-e02d-4e66-8e0d-8c334fbc89cd" />
 
-<img width="800" height="502" alt="image" src="https://github.com/user-attachments/assets/7bb53faf-fca2-477e-a58b-bb98010e19e0" />
+<img width="776" height="502" alt="image" src="https://github.com/user-attachments/assets/90653fb4-7f91-4e31-b909-2a0693864923" />
 
 
 
